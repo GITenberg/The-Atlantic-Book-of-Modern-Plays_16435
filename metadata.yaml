@@ -43,7 +43,7 @@ contributor:
     aliases:
     - O'Neill, Eugene G. (Eugene Gladstone)
     - O'Neill, Eugene Gladstone
-    birthdate: &id001 1888
+    birthdate: 1888
     deathdate: 1953
     gutenberg_agent_id: '1359'
     url: http://www.gutenberg.org/2009/agents/1359
@@ -103,11 +103,13 @@ covers:
 creator:
   editor:
     agent_name: Leonard, Sterling Andrus
-    birthdate: *id001
+    birthdate: 1888
     deathdate: 1931
     gutenberg_agent_id: '6709'
     url: http://www.gutenberg.org/2009/agents/6709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16435#The-Atlantic-Book-of-Modern-Plays
 gutenberg_bookshelf:
 - One Act Plays
 - Fantasy
