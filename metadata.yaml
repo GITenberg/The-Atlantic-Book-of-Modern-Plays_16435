@@ -1,0 +1,135 @@
+_repo: The-Atlantic-Book-of-Modern-Plays_16435
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Bottomley, Gordon
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '7391'
+    url: http://www.gutenberg.org/2009/agents/7391
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Bottomley
+  - agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+  - agent_name: Chapin, Harold
+    birthdate: 1886
+    deathdate: 1915
+    gutenberg_agent_id: '7385'
+    url: http://www.gutenberg.org/2009/agents/7385
+  - agent_name: Parkhurst, Winthrop
+    gutenberg_agent_id: '7386'
+    url: http://www.gutenberg.org/2009/agents/7386
+  - agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+  - agent_name: Dunsany, Lord
+    aliases:
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+  - agent_name: O'Neill, Eugene
+    aliases:
+    - O'Neill, Eugene G. (Eugene Gladstone)
+    - O'Neill, Eugene Gladstone
+    birthdate: &id001 1888
+    deathdate: 1953
+    gutenberg_agent_id: '1359'
+    url: http://www.gutenberg.org/2009/agents/1359
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_O'Neill
+  - agent_name: Gregory, Lady
+    aliases:
+    - Persse, Isabella Augusta
+    - Gregory, Isabella Augusta Persse, Lady
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+  - agent_name: MacKaye, Percy
+    alias: Mackaye, Percy
+    birthdate: 1875
+    deathdate: 1956
+    gutenberg_agent_id: '7390'
+    url: http://www.gutenberg.org/2009/agents/7390
+    wikipedia: http://en.wikipedia.org/wiki/Percy_MacKaye
+  - agent_name: Brighouse, Harold
+    birthdate: 1882
+    deathdate: 1958
+    gutenberg_agent_id: '2011'
+    url: http://www.gutenberg.org/2009/agents/2011
+    wikipedia: https://en.wikipedia.org/wiki/Harold_Brighouse
+  - agent_name: Middleton, George
+    birthdate: 1880
+    deathdate: 1967
+    gutenberg_agent_id: '7384'
+    url: http://www.gutenberg.org/2009/agents/7384
+    wikipedia: http://en.wikipedia.org/wiki/George_Middleton_(playwright)
+  - agent_name: Ferguson, J. A.
+    gutenberg_agent_id: '7387'
+    url: http://www.gutenberg.org/2009/agents/7387
+  - agent_name: Saunders, Louise
+    gutenberg_agent_id: '7388'
+    url: http://www.gutenberg.org/2009/agents/7388
+  - agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, John Millington
+    - Synge, Edmund John Millington
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: http://en.wikipedia.org/wiki/John_Millington_Synge
+  - agent_name: Dix, Beulah Marie
+    alias: Flebbe, Beulah Dix
+    birthdate: 1876
+    deathdate: 1970
+    gutenberg_agent_id: '7389'
+    url: http://www.gutenberg.org/2009/agents/7389
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Leonard, Sterling Andrus
+    birthdate: *id001
+    deathdate: 1931
+    gutenberg_agent_id: '6709'
+    url: http://www.gutenberg.org/2009/agents/6709
+description: ''
+gutenberg_bookshelf:
+- One Act Plays
+- Fantasy
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama'
+- !lcc 'PS'
+- !lcc 'PR'
+- !lcsh 'English drama'
+tableOfContents: The philosopher of Butterbiggens, by H. Chapin -- Spreading the news,
+  by Lady Gregory -- The beggar and the king, by W. Parkhurst -- Tides, by G. Middleton
+  -- Ile, by E. O'Neill -- Campbell of Kilmhor, by J.A. Ferguson -- The sun, by J.
+  Galsworthy -- The Knave of hearts, by Louise Saunders -- Fame and the poet, by Lord
+  Dunsany -- The captain of the gate, by Beula M. Dix -- Gettysburg, by P. MacKaye
+  -- Lonesome-like, by H. Brighouse -- Riders to the sea, by J.M. Synge -- The land
+  of heart's desire, by W.B. Yeats -- The riding to Lithend, by G. Bottomley.
+title: The Atlantic Book of Modern Plays
+url: http://www.gutenberg.org/ebooks/16435
